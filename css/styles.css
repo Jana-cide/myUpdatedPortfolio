@@ -1,0 +1,16 @@
+body {
+  background-color: #172528;
+  color: #DEF2F1;
+}
+
+.certainPlaces {
+  border-style: none;
+  border-top: 7.5px dotted #EF8CC8;
+  width: 10%;
+  border-width: 15px;
+}
+
+hr{
+  border-style: none;
+  border-top: 1px solid #EFC58C;
+}
